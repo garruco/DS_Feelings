@@ -1691,10 +1691,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   playerObj: {fileID: 832690623}
-  moveSpeed: 2
-  speedMultiplier: 1.65
+  moveSpeed: 3
+  speedMultiplier: 2
   groundDrag: 1.9
-  jumpForce: 8
+  jumpForce: 6
   jumpCooldown: 0.1
   airMultiplier: 0.4
   noiseManager: {fileID: 657838311}
