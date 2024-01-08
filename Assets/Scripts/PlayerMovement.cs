@@ -82,7 +82,7 @@ namespace Player
 
             if (Input.GetKey(KeyCode.LeftShift))
             {
-                moveSpeed = defaultMoveSpeed * speedMultiplier * arousal;
+                moveSpeed = 2 * defaultMoveSpeed * speedMultiplier * arousal;
             }
             else moveSpeed = defaultMoveSpeed * arousal;
 
